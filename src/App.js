@@ -43,7 +43,7 @@ class App extends React.Component {
   render() {
     return (
       <div className="App">
-        Inspired by Luke Wheeler
+        Design : inspired by Luke Wheeler
         <Card
           image={this.state.image}
           quote={this.state.quote}
